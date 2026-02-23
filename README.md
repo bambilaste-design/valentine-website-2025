@@ -46,7 +46,7 @@ Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
 valentineName: "Irene"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+pageTitle: "i love you. 🤍" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
