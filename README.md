@@ -68,7 +68,7 @@ questions: {
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
+        text: "be mine forever my beautiful angel irene.",      // Final question
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
@@ -76,16 +76,17 @@ questions: {
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "you really love me that much huuh? i love you alot more though.",  // Shows above 5000%
+    high: "youre so sweet loving me that much heh.",              // Shows above 1000%
+    normal: "i beliebe you love me more than that."                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    title: "i mus treally be the luckiest boy in the world habing you.",     // Celebration title
+    message: "hi my sweetheart, i know these days have been hard for you but i want you to remember im always here for you. you might feel shitty ans selfish for not giving me as much love or focusing on me these days but trust me, im fine with it im used to it anyway, i understand that youre struggling nowadays and i want you to know that youre not alone in this, im here for you my beautiful princess. evem whwn things get hard for me as well, i want to take care of you first, making sure youre okay before me, and why you may think? because i love you more than myself, i dont want myself well first i want you to heal faster than me, thats why i want you to communicate with me and tell whatever happens to you oksy my sweetie? i hope you get a charger soon so we can talk more ans what happened these days, i love you so so much my cutest irene, youre the best thing thst could ever happen to me trust me ans you deserve my love so much. you genuinely deserve all the love in the world, you have went through so so much these months i genuinely wish i could just, stop it somehow because jesus you deserbe the whole world and ill make sure tou get all that love. youre genuinely my entire universe my darling and i love you so much
+",          // Celebration message
+    emojis: "🤍🎶🩷🖤🌸🥀"                        // Celebration emojis
 }
 
 // Website Colors
